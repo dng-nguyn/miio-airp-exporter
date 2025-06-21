@@ -5,6 +5,12 @@ To get device token, use this [script](https://gist.github.com/dng-nguyn/cd3d7a0
 
 For other devices, modify and verify the MIoT specs accordingly - [Xiaomi MIoT Specs.](https://home.miot-spec.com/s/)
 
+## Requirements:
+```sh
+pip install python-miio
+apt install python3-prometheus-client
+```
+
 ## Usage:
 ```sh
 export.py JSON_FILE
