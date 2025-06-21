@@ -444,7 +444,7 @@
       "fieldConfig": {
         "defaults": {
           "color": {
-            "fixedColor": "#57e6f2",
+            "fixedColor": "#efc399",
             "mode": "shades"
           },
           "mappings": [],
@@ -1083,6 +1083,6 @@
   "timezone": "",
   "title": "Xiaomi Air Purifier 4 Lite Exporter",
   "uid": "f850ecb2-5c98-4ca1-b6bf-cf96365d4a28",
-  "version": 29,
+  "version": 30,
   "weekStart": ""
 }
