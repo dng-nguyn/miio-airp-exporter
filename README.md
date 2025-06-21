@@ -1,4 +1,8 @@
 # Xiaomi Air Purifier (4 Lite) Prometheus Exporter
+
+
+![image](https://github.com/user-attachments/assets/aa5a789d-ba5b-4878-a62e-e3437ca3d8d9)
+
 This is only tested for 4 Lite, but can be used with any devices that are supported by the [python-miio](https://python-miio.readthedocs.io/en/latest/) library.
 
 To get device token, use this [script](https://gist.github.com/dng-nguyn/cd3d7a0fe3c10856057f80f9f663039a) or other legacy official methods [here.](https://python-miio.readthedocs.io/en/latest/legacy_token_extraction.html#legacy-token-extraction)
@@ -31,3 +35,5 @@ JSON Configuration is as follow:
 }
 ```
 Support for multiple devices is untested, I have no idea if it would work.
+
+The provided json file is a grafana dashboard.
